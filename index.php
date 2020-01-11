@@ -2,7 +2,7 @@
 include 'header.php';
 ?>
                     <div class="col-lg-10 ml-auto">
-                        <img class="pr-2 pt-3" src="https://picsum.photos/200/300?grayscale">
+                        <img class="pr-2 pt-3" src="koppen.jpg" style="width:200px;">
                         <img class="pr-2 pt-3" src="https://picsum.photos/200/300?grayscale">
                         <img class="pr-2 pt-3" src="https://picsum.photos/400/300?grayscale">
                         <img class="pr-2 pt-3" src="https://picsum.photos/200/300?grayscale">
